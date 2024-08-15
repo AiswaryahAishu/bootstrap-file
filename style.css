@@ -1,0 +1,28 @@
+.container{
+    background-color: aquamarine;
+    height: 50px;
+}
+.container-fluid{
+    background-color: rgb(200, 200, 48);
+    height: 50px;
+}
+.container-sm{
+    background-color: lightcoral;
+    height: 50px;
+}
+.container-md{
+    background-color: lightgreen;
+    height: 50px;
+}
+.container-lg{
+    background-color: lightskyblue;
+    height: 50px;
+}
+.container-xl{
+    background-color: limegreen;
+    height: 50px;
+}
+.container-xxl{
+    background-color: chocolate;
+    height: 50px;
+}

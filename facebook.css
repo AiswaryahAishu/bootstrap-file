@@ -1,0 +1,24 @@
+#header_container{
+    background-color: #3b5998;
+    color: #ffffff;
+}
+#header-container{
+    
+    background-color: rgb(59, 89, 152);
+}
+
+@media (max-width: 991px){
+    #login_form_email,#login_form_password,#login_form_login{
+        background: #ffffff;
+        color: #808080;
+    }
+    #left_container{
+        text-align: center;
+    }
+    #footer_container{
+        background-color: white;
+    }
+    .bgclr{
+        background:linear-gradient(#ffffff, #edf0f5);
+    }
+}
